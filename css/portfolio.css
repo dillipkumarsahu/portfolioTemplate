@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+ 
+*{
+	box-sizing: border-box;
+}
+body{
+	padding:0;
+	margin:0;
+	overflow-x: hidden;
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: inherit; 
+
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #171717; 
+
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: black; 
+}
+/*end scrollbar coding*/
+
+/*start header coding*/
+
+/*end header coding*/
